@@ -90,7 +90,7 @@ int main()
             scanf("%s", &Nam);
             printf("\n -->Enter your Account Number= ");
             scanf("%s", &Ac);
-            if (strcmp(Ac, ac)== 0)
+            if (strcmp(Ac, ac) == 0)
             {
             Aq:
                 printf("\n -->Enter your Password=");
