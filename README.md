@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pragyesh Jain</h1>
+<h2 align="center">Hi 👋, I'm Pragyesh Jain</h2>
 - 🔭 I’m Currently Stopped Working on these Projects
 
 - 🌱 I’m currently learning DSA in C++
