@@ -9,5 +9,3 @@
 
 - 📫 How to reach me **insecureaiyourr@gmail.com**
 
-<p align="left">
-</p>
