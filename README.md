@@ -6,5 +6,5 @@
 • 🌱 I’m currently learning DSA in C++
   • 💬 Ask me anything related to my Repositories.
 
-• 📫 How to reach me **insecureaiyourr@gmail.com**
+• 📫 My E-mail ID is **insecureaiyourr@gmail.com**
 
