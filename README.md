@@ -3,7 +3,7 @@
 - ⚡ This Repository is Based on Basic C Projects by Pragyesh Jain
 - 🔭 Currently I'm Stopped Working on these Projects because I didn't learn DSA yet.
 
-- 🌱 I’m currently learning DSA in C++
+- 🌱 Currently I’m  learning DSA in C++
 
 - 💬 Ask me anything related to my Repositories.
 
