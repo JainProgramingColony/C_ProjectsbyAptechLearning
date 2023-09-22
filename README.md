@@ -5,7 +5,7 @@
 
 - 🌱 Currently I’m  learning C++ Pro. Lang.
 
-- 💬 Ask me anything related to my Repositories.l
+- 💬 Ask me anything related to my Repositories.
 
 • 📫 My E-mail ID is **insecureaiyourr@gmail.com**
 
