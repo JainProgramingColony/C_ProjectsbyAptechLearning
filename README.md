@@ -4,5 +4,5 @@
 - 🔭 these are the basic Project because I didn't use DSA in it.
 - 💬 Ask me anything related to my Repositories on Issue Section or on my E-mail ID. 
 
-- 📫 My E-mail ID is **insecureaiyourr@gmail.com**
+- 📫 My E-mail ID is **jainpragyeshh@gmail.com**
 
